@@ -3,3 +3,7 @@
 import sys
 name = sys.argv[1]
 print(f"Hello, {name}!")
+
+#output
+# Command: python greet.py Prudhvi
+# Hello, Prudhvi!
