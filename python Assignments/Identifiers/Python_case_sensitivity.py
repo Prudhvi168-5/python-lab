@@ -4,3 +4,7 @@ Marks = 95
 marks = 80
 print("marks =", Marks)
 print("marks =", marks)
+
+#output
+# marks = 95
+# marks = 80
