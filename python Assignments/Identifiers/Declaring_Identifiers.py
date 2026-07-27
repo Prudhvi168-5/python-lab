@@ -12,3 +12,10 @@ def display():
 display()
 print("Class Name: Student")
 print("Function Name: display")
+
+#output
+# Variable: 20
+# Constant: 3.14
+# Underscore Name: Prudhvi
+# Class Name: Student
+# Function Name: display
