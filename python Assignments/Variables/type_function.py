@@ -8,3 +8,9 @@ print(name, type(name))
 print(age, type(age))
 print(height, type(height))
 print(is_student, type(is_student))
+
+#output
+#Prudhvi <class 'str'>
+#19 <class 'int'>
+#5.8 <class 'float'>
+#True <class 'bool'>
