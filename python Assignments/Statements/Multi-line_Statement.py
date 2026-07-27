@@ -8,3 +8,7 @@ total2 = (
     40 + 50
 )
 print(total2)
+
+#output
+# 150
+# 150
