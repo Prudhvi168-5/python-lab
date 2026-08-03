@@ -1,5 +1,5 @@
+# Y.Prudhvi Naidu
 # imporitng keyword
-#Y.Prudhvi Naidu
 import keyword
 key_word=input("enter word:")
 if keyword.iskeyword(key_word):
